@@ -1,4 +1,4 @@
-About me:
+About me: <br>
 I am a junior game developer from Israel, currently in my last year of BSc in Computer Science 👨‍💻
 
 Get in touch:

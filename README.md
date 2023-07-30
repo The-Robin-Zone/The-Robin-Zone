@@ -1,5 +1,5 @@
 About me: <br>
-I am a junior game developer from Israel, currently in my last year of BSc in Computer Science 👨‍💻
+I am a junior game developer from Israel, currently in my last year of my BSc in Computer Science 👨‍💻
 
 Get in touch:
 <p align="center" dir="auto">

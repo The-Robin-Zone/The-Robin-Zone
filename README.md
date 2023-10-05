@@ -16,9 +16,3 @@ High-pace Casual Platformer for Mobile
 Available on Google Play!
 
 https://play.google.com/store/apps/details?id=com.CosmicHeist.com.unity.template.mobile2D&hl=en&gl=US
-
-![2](https://github.com/The-Robin-Zone/Cosmic_Heist/assets/84126368/ceceb558-0b4d-4a12-954e-ce5d78064982)
-![4](https://github.com/The-Robin-Zone/Cosmic_Heist/assets/84126368/59a0aa9a-1cc3-46f9-a535-481d9a5b4b20)
-
-![3](https://github.com/The-Robin-Zone/Cosmic_Heist/assets/84126368/c96a4ec5-df36-4c70-ba35-abd1b45ea13a)
-![1](https://github.com/The-Robin-Zone/Cosmic_Heist/assets/84126368/5623b8f5-0003-4d37-a415-e7f4c48d8ed4)
